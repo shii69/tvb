@@ -3,7 +3,7 @@
 在线配置：
 
 ```
-http://raw.iqiq.io/cracada/tvb/main/XX.json
+http://raw.iqiq.io/cracada/tvb/main/json/XX.json
 ```
 
 采妮丝/多多/恋影/巧计/小雅/一木
