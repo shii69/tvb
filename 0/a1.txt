@@ -6,15 +6,15 @@
         },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/lianying.json",
-            "name": "缝合版恋影"
+            "name": "缝合恋影"
          },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json",
-            "name": "缝合版巧技"
+            "name": "缝合巧技"
         },
         {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/yimu.json",
-            "name": "缝合版一木"
+            "name": "缝合一木"
         },
         {
             "url": "https://yydsys.top/duo",
