@@ -1,14 +1,24 @@
-//此多仓接口列表为公众号【多多应用汇】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
-//转载请注明出处
 {
     "urls": [
+           {
+            "url":"https://raw.iqiq.io/cracada/tvb/main/json/duoduo.json",
+            "name": " 缝合多多"
+        },
+          {
+            "url":"https://raw.iqiq.io/cracada/tvb/main/json/lianying.json",
+            "name": "缝合版恋影"
+         },
+          {
+            "url":"https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json",
+            "name": "缝合版巧技"
+        },
         {
-            "url": "https://yydsys.top/duo/v.json",
-            "name": "🔔多多线路1"
+            "url":"https://raw.iqiq.io/cracada/tvb/main/json/yimu.json",
+            "name": "缝合版一木"
         },
         {
             "url": "https://yydsys.top/duo",
-            "name": "🏡多多线路2"
+            "name": "🏡多多线路"
         },  
         {
             "url": "http://饭太硬.ga/tv",
