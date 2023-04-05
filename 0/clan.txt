@@ -1,0 +1,24 @@
+{
+    "urls": [
+           {
+            "url":"clan://localhost/tvb/duoduo/dd.json",
+            "name": " 多多"
+        },
+          {
+            "url":"clan://localhost/tvb/lianying/ly.json",
+            "name": "恋影"
+         },
+          {
+            "url":"clan://localhost/tvb/qiaoji/qj.json",
+            "name": "巧技"
+        },
+          {
+            "url":"clan://localhost/tvb/xiaoya/xy.json",
+            "name": "小雅"
+        }, 
+          {
+            "url":"clan://localhost/tvb/yimu/ym.json",
+            "name": "一木"
+        }
+      ]  
+}
