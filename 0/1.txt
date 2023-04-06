@@ -2,19 +2,19 @@
     "urls": [
            {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/duoduo.json",
-            "name": " 缝合多多"
+            "name": " 缝合-多多"
         },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/lianying.json",
-            "name": "缝合恋影"
+            "name": "缝合-恋影"
          },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json",
-            "name": "缝合巧技"
+            "name": "缝合-巧技"
         },
         {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/yimu.json",
-            "name": "缝合一木"
+            "name": "缝合-一木"
         }, 
         {
             "url": "http://饭太硬.ga/tv",
