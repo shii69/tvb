@@ -2,43 +2,43 @@
     "urls": [
            {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/duoduo.json",
-            "name": " 多多"
+            "name": " 缝合-多多"
         },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/lianying.json",
-            "name": "恋影"
+            "name": "缝合-恋影"
          },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json",
-            "name": "巧技"
+            "name": "缝合-巧技"
         },
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/xiaoya.json",
-            "name": "小雅"
+            "name": "缝合-小雅"
         }, 
           {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/yimu.json",
-            "name": "一木"
+            "name": "缝合-一木"
         },
 	{
             "url":"clan://localhost/tvb/duoduo/dd.json",
-            "name": " 多多"
+            "name": " 本地-多多"
         },
           {
             "url":"clan://localhost/tvb/lianying/ly.json",
-            "name": "恋影"
+            "name": "本地-恋影"
          },
           {
             "url":"clan://localhost/tvb/qiaoji/qj.json",
-            "name": "巧技"
+            "name": "本地-巧技"
         },
           {
             "url":"clan://localhost/tvb/xiaoya/xy.json",
-            "name": "小雅"
+            "name": "本地-小雅"
         }, 
           {
             "url":"clan://localhost/tvb/yimu/ym.json",
-            "name": "一木"
+            "name": "本地-一木"
         }
       ]  
 }
