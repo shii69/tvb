@@ -41,10 +41,10 @@ https://raw.iqiq.io/liu673cn/box/main/m.json
 霜辉月明py：
 https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json
 
-小雅js：
-http://drpy.site/js1
-巧技
-http://pandown.pro/tvbox/tvbox.json
-http://cdn.qiaoji8.com/tvbox.json
-恋影
-https://www.lianyingtv.com/lianyingjingjian.html
+小雅js：  
+http://drpy.site/js1  
+巧技  
+http://pandown.pro/tvbox/tvbox.json  
+http://cdn.qiaoji8.com/tvbox.json  
+恋影  
+https://www.lianyingtv.com/lianyingjingjian.html  
