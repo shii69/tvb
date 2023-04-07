@@ -33,12 +33,12 @@ https://raw.iqiq.io/cracada/tvb/main/tv/mytv.txt
 
 IPTV参考：
 
-https://github.com/youshandefeiyang/IPTV/tree/main/main
-bestv.m3u    BESTV源
-ghyx.m3u    GHYX源
-sxg.m3u    SXG-IPV6源
-aishang.m3u    爱尚源
-cqyx.m3u    CQYX源
+https://github.com/youshandefeiyang/IPTV/tree/main/main  
+bestv.m3u    BESTV源  
+ghyx.m3u    GHYX源  
+sxg.m3u    SXG-IPV6源  
+aishang.m3u    爱尚源  
+cqyx.m3u    CQYX源  
 
 https://raw.iqiq.io/whpsky/iptv/main/chinatv.txt  
 https://raw.iqiq.io/zbefine/iptv/main/iptv.txt  
