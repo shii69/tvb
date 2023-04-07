@@ -18,3 +18,12 @@ https://raw.iqiq.io/cracada/tvb/main/json/yimu.json
 https://raw.iqiq.io/cracada/tvb/main/tv/mytv.txt  
 
 
+IPTV参考：
+
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+
+https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.m3u
+
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
+
+https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
