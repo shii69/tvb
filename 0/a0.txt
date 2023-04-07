@@ -1,7 +1,0 @@
-{
-"storeHouse": [
-{"sourceName":"💚主力仓","sourceUrl":"https://raw.iqiq.io/cracada/tvb/main/0/a1.txt"},
-{"sourceName":"💛备用仓","sourceUrl":"https://raw.iqiq.io/cracada/tvb/main/0/a2.txt"},
-{"sourceName":"🚀在线缝合仓","sourceUrl":"https://raw.iqiq.io/cracada/tvb/main/0/a3.txt"},
-{"sourceName":"🚀本地缝合仓","sourceUrl":"https://raw.iqiq.io/cracada/tvb/main/0/a4.txt"}
-]}
