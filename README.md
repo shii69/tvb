@@ -34,7 +34,7 @@ https://raw.iqiq.io/cracada/tvb/main/json/yimu.json
 
 直播
 ---
-https://raw.iqiq.io/cracada/tvb/main/tv/mytv.txt  
+https://raw.iqiq.io/cracada/tvb/main/tv.txt  
 
 壁纸
 ---
