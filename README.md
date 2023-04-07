@@ -20,10 +20,26 @@ https://raw.iqiq.io/cracada/tvb/main/tv/mytv.txt
 
 IPTV参考：
 
-https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+https://github.com/youshandefeiyang/IPTV/tree/main/main
+bestv.m3u    BESTV源
+ghyx.m3u    GHYX源
+sxg.m3u    SXG-IPV6源
+aishang.m3u    爱尚源
+cqyx.m3u    CQYX源
 
-https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.m3u
+https://raw.iqiq.io/whpsky/iptv/main/chinatv.txt  
+https://raw.iqiq.io/zbefine/iptv/main/iptv.txt  
+https://raw.iqiq.io/vamoschuck/TV/main/M3U  
+https://raw.iqiq.io/wuyun999/wuyun/main/zb/aptv.txt  
+https://raw.iqiq.io/hussobaba/AILE-Tv/main/TEBER_TV.m3u  
+https://raw.iqiq.io/goolguy007/radioer/main/TVradio  
+https://raw.iqiq.io/zhanghongguang/zhanghongguang.github.io/main/CNTV.m3u  
+https://raw.iqiq.io/fanmingming/live/main/tv/m3u/global.m3u  
+https://raw.iqiq.io/YanG-1989/m3u/main/yu.m3u  
+https://raw.iqiq.io/Kimentanm/aptv/master/m3u/ya.m3u  
 
-https://raw.githubusercontent.com/zbefine/iptv/main/iptv.txt
 
-https://cdn.jsdelivr.net/gh/zbefine/iptv/iptv.txt
+EPG 节目单  
+https://epg.112114.xyz/pp.xml  
+http://epg.51zmt.top:8000/e.xml  
+https://epg.pw/xmltv.html?lang=zh-hant  
