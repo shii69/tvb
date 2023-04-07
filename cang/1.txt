@@ -1,0 +1,44 @@
+{
+    "urls": [
+        {
+            "url": "http://饭太硬.ga/tv",
+            "name": "🚀饭太硬线路"
+        },                      
+        {
+            "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
+            "name": "🚀肥猫线路"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf",
+            "name": "🚀菜妮丝线路"
+        },
+        {
+            "url": "http://52bsj.vip:98/wuai",
+            "name": "🐹吾爱线路"
+        }, 
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "🚀巧技线路"
+        },
+        {
+            "url": "https://yydsys.top/duo",
+            "name": "🏡多多线路"
+        }, 
+        {
+            "url": "http://101.34.67.237/config/1",
+            "name": "🚀小雅线路"
+        },             
+        {
+            "url": "http://miaotvs.cn/meow",
+            "name": "🐹喵影视线路"
+        },
+        {
+            "url": "https://源享家.ml/45127",
+            "name": "🐹源享家线路"
+        },
+        {
+            "url": "https://agit.ai/nbwzlyd/xiaopingguo/raw/branch/master/xiaopingguo/xiaopingguo.json",
+            "name": "🚀小苹果线路"
+        }
+    ]
+}
