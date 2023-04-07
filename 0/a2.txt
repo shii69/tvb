@@ -35,7 +35,7 @@
         {
             "url": "https://ju.binghe.ga/4.txt",
             "name": "🐹冰河线路"
-        },,
+        },
         {
             "url": "https://raw.liucn.cc/box/m.json",
             "name": "🚀老刘备线路"
@@ -43,7 +43,7 @@
         {
             "url": "https://gitee.com/lekanbox/ysc/raw/master/ysc.json",
             "name": "🚀运输车线路"
-        }
+        },
         {
             "url": "https://yydsys.top/duo/x.json",
             "name": "🚀阿里扫码专线"
