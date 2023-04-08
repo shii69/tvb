@@ -30,6 +30,9 @@ https://raw.iqiq.io/cracada/tvb/main/json/yimu.json
 小雅js：http://drpy.site/js1  
 巧技 http://pandown.pro/tvbox/tvbox.json  [2](http://cdn.qiaoji8.com/tvbox.json)  
 恋影：https://www.lianyingtv.com/lianyingjingjian.html  
+运输车： https://gitee.com/lekanbox/ysc/raw/master/ysc.json  
+
+
 
 
 直播
