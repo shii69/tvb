@@ -1,14 +1,14 @@
 多仓
 -----
-https://raw.iqiq.io/cracada/tvb/main/duo.txt
+https://raw.iqiq.io/cracada/tvb/main/duo.json  
 
 单仓
 -----
-https://raw.iqiq.io/cracada/tvb/main/dan.txt
+https://raw.iqiq.io/cracada/tvb/main/dan.json  
 
 本地仓
 -----
-https://raw.iqiq.io/cracada/tvb/main/bendi.txt
+https://raw.iqiq.io/cracada/tvb/main/bendi.json  
 
 搬运线路
 ---
@@ -37,11 +37,11 @@ https://raw.iqiq.io/cracada/tvb/main/json/yimu.json
 
 直播
 ---
-https://raw.iqiq.io/cracada/tvb/main/tv.txt  
+https://raw.iqiq.io/cracada/tvb/main/tv.json  
 
 壁纸
 ---
-https://www.crsay.com/addons/tvbwp/
+https://www.crsay.com/addons/tvbwp/  
 
 
 IPTV
