@@ -99,16 +99,6 @@ CCTV17,http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 
-
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221226221/index.m3u8
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
-CCTV-1HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
-CCTV-13HD,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
-
 卫视频道,#genre#
 
 湖南卫视,https://live.v1.mk/api/ghyx.php?id=HuNanHD_6000
@@ -648,18 +638,6 @@ TVB星河,http://198.16.64.10:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183
 八大戏剧台,http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=ME4E4734124647341246&ct=19225&tsum=c4e596572a79ad99675ee2137d1cc43d
 八大综合台,http://198.16.64.10:8278/badazhonghe/playlist.m3u8?tid=MC7C4692263546922635&ct=19225&tsum=ffdc7a6397b511103e0df0b92e678790
 公視,http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MCCC8750228587502285&ct=19225&tsum=aca6268c0dd9f618ed5e944942132557
-
-
-地方频道,#genre#
-湖南经视,http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
-湖南经视,http://cache.ott.fifalive.itv.cmvideo.cn:80/000000001000/hnjingshi/index.m3u8?channel-id=ystenlive&Contentid=hnjingshi&livemode=1&authCode=3a&stbId=004203003004001001B254C57A60AC10&version=1.0&owaccmark=hnjingshi&owchid=ystenlive&owsid=8551421638843014795&AuthInfo=WeQYnwDbWk4GUvd54G0dJtof3vRM%2B2ypD%2BOuRwkfZL3%2FBgTw8EGqxrSqrXVnNtk0eJwD1HUQQtD%2FH4R96rWx%2F0Dpj5cysh2VR1rCb5to72k%3D
-湖南经视,http://cache.ott.fifalive.itv.cmvideo.cn:80/000000001000/hnjingshi/index.m3u8?channel-id=ystenlive&Contentid=hnjingshi&livemode=1&authCode=3a&stbId=004701FF0001182003AB60313BF7655A&version=1.0&owaccmark=hnjingshi&owchid=ystenlive&owsid=8417171638842885282&AuthInfo=CddfQWIesl%2B0%2FTw4xAGbWBKSbFx4tSCKlQU%2FjlITR9D%2FBgTw8EGqxrSqrXVnNtk0QgONMXSDecfPIRrzlxJp1WdeMjBWruDH7wD8bpRx1dQ%3D
-湖南经视,http://ls.qingting.fm/live/1207.m3u8
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-浙江民生休闲,http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
-浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
-武汉新闻综合,http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8?zhubd
 
 
 直播中国,#genre#
@@ -1230,3 +1208,13 @@ CETV3,http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 CETV4,http://txycsbl.centv.cn/zb/0822cetv4.m3u8
 
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+
+湖南经视,http://124.232.233.15:6610/000000001001/201600020002/1400.m3u8?m3u8_level=2
+湖南经视,http://cache.ott.fifalive.itv.cmvideo.cn:80/000000001000/hnjingshi/index.m3u8?channel-id=ystenlive&Contentid=hnjingshi&livemode=1&authCode=3a&stbId=004203003004001001B254C57A60AC10&version=1.0&owaccmark=hnjingshi&owchid=ystenlive&owsid=8551421638843014795&AuthInfo=WeQYnwDbWk4GUvd54G0dJtof3vRM%2B2ypD%2BOuRwkfZL3%2FBgTw8EGqxrSqrXVnNtk0eJwD1HUQQtD%2FH4R96rWx%2F0Dpj5cysh2VR1rCb5to72k%3D
+湖南经视,http://cache.ott.fifalive.itv.cmvideo.cn:80/000000001000/hnjingshi/index.m3u8?channel-id=ystenlive&Contentid=hnjingshi&livemode=1&authCode=3a&stbId=004701FF0001182003AB60313BF7655A&version=1.0&owaccmark=hnjingshi&owchid=ystenlive&owsid=8417171638842885282&AuthInfo=CddfQWIesl%2B0%2FTw4xAGbWBKSbFx4tSCKlQU%2FjlITR9D%2FBgTw8EGqxrSqrXVnNtk0QgONMXSDecfPIRrzlxJp1WdeMjBWruDH7wD8bpRx1dQ%3D
+湖南经视,http://ls.qingting.fm/live/1207.m3u8
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+浙江民生休闲,http://yd-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
+浙江民生休闲,http://hw-m-l.cztv.com/channels/lantian/channel06/360p.m3u8?zzhed
+武汉新闻综合,http://live.hannews.com.cn/video/s10001-wuhannews/index.m3u8?zhubd
