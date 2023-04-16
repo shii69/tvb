@@ -1,5 +1,5 @@
 多多等等 duoduo.txt    
-http://9xi4o.tk/sub/duoduo.txt
+http://9xi4o.tk/sub/mytv.txt
 
 
 菜妮丝 feimao.txt  
@@ -31,7 +31,7 @@ eg:
 ```
 "lives":[{"name":"live","type":0,"url":"http://url/qiaoji.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 ```
-
+ 
 ```
 "lives":[{
       "name": "live",
