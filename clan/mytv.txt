@@ -613,16 +613,20 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 RTHKTV32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 
 世界频道,#genre#
-ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
-KOREA,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
-MEZZO LIVE,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
-TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-
+CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+Bloomberg TV,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+Bloomberg TV,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
+FOXNews（美国）,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+ELTA娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
+KOREA,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+MEZZO LIVE,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
+TRACE URBAN,http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
 
 
 ABCNews,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
@@ -635,10 +639,6 @@ ATV,http://85.132.81.184:8080/atv-2/index.m3u8
 CNC EN,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 CNC CN,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 
-Bloomberg TV,https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-Bloomberg TV,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-FOXNews（美国）,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 HBTV,http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 K+,http://210.210.155.35/uq2663/h/h08/index.m3u8
 KBSV/AssyriaSat,http://66.242.170.53/hls/live/temp/index.m3u8
