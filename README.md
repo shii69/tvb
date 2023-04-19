@@ -92,6 +92,7 @@ https://epg.pw/xmltv.html?lang=zh-hant
     "HomePictureZoom": 0, //默认画面缩放 0 默认 1 16:9 2 4:3 3 填充 4 原始 5 裁剪
     "HomeWindowPreview": true, //默认窗口预览
     
+homeshowsource???
     
     // 直播配置相关
     "Live":{
