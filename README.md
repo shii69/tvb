@@ -75,7 +75,7 @@ https://epg.pw/xmltv.html?lang=zh-hant
 
 配置
 ---
-‘‘‘
+```
 {
     // 代码配置相关
     "IsRecodeLog":true, // 是否记录文件日志
@@ -113,4 +113,4 @@ https://epg.pw/xmltv.html?lang=zh-hant
            "UpdateDownloadUrl":"https://ghproxy.com/https://github.com/hfr1107/HomeBox_relerase/releases/download/20221025-0202/TVBox_hfr1107_20221025-0202.apk" //更新下载地址
     }
 }
-‘‘‘
+```
