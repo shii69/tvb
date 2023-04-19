@@ -82,7 +82,7 @@ https://epg.pw/xmltv.html?lang=zh-hant
     
     // 默认配置相关
     "ForceChangeAPIUrl": true, //强制替换首页默认API地址，防止API失效不更新包的手段
-    "APIUrl":"https://raw.iqiq.io/hfr1107/vvbox/main/tv.json", //首页默认API地址
+    "APIUrl":"https://raw.iqiq.io/cracada/tvb/main/json/yimu.json", //首页默认API地址
     "HomeID": "csp_SP360", //厂长
     "HomeShowType": 1, //默认首页推荐 0 豆瓣热播 1 数据源推荐 2 历史
     "HomeSearchType": 0, //默认搜索展示 0 列表 1 缩略图
