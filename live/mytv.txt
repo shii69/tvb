@@ -594,6 +594,7 @@ CCTV5+,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212257
 靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8
 靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
 靖天映书,http://www.336699.live:1935/blockfour/4gtv-4gtv055.stream/playlist.m3u8
+爱尔达娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
 翡翠华丽,http://23.237.10.66:16410
 采昌,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
 大立電視,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -628,9 +629,8 @@ BLOOMBERG,https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.
 BLOOMBERG,https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-ABC News 2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 
-ELTA 娱乐,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8
+
 MEZZO LIVE,http://www.336699.live:1935/blockfour/4gtv-4gtv083.stream/playlist.m3u8
 
 AWE,http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
