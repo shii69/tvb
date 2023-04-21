@@ -22,8 +22,8 @@ https://raw.iqiq.io/cracada/tvb/main/json/yimu.json
 ---
 南风： https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json  
 菜妮丝： https://tvbox.cainisi.cf/  
-神器每日推送: https://神器每日推送.tk/pz.json  
-饭太硬： http://饭太硬.ga/tv  
+神器每日推送: https://xn--m7r412advb92j21st65a.tk/pz.json  
+饭太硬： http://xn--sss604efuw.ga/tv  
 蜂蜜 https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
 老刘备 https://raw.iqiq.io/liu673cn/box/main/m.json  
 霜辉月明py： https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json  
