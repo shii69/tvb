@@ -15,8 +15,10 @@ https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt
 
 饭太硬   
 fantaiying.txt  
-http://ftyyy.tk/live.txt 【2 SLOW】
+http://ftyyy.tk/live.txt
 
+肥猫  
+http://我不是.肥猫.love:63/TV/tvzb.txt  
 
 巧技 qiaoji.txt  
 https://raw.iqiq.io/dxawi/0/main/tvlive.txt
