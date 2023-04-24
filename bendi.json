@@ -13,10 +13,6 @@
             "name": "本地-巧技"
         },
           {
-            "url":"clan://localhost/tvb/xiaoya/xy.json",
-            "name": "本地-小雅"
-        }, 
-          {
             "url":"clan://localhost/tvb/fantaiying/fty.json",
             "name": "本地-饭太硬"
         }, 
@@ -25,6 +21,9 @@
             "name": "本地-肥猫"
         }, 	    
           {
+            "url":"clan://localhost/tvb/xiaoya/xy.json",
+            "name": "本地-小雅"
+        },           {
             "url":"clan://localhost/tvb/yimu/ym.json",
             "name": "本地-一木"
         }
