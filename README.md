@@ -41,7 +41,7 @@ https://raw.iqiq.io/cracada/tvb/main/tv.json
 
 壁纸
 ---
-https://www.crsay.com/addons/tvbwp/  
+https://www.crsay.com/addons/tvbox/wp/  
 
 
 IPTV
