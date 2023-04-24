@@ -17,8 +17,8 @@ https://raw.iqiq.io/cracada/tvb/main/json/yimu.json
 https://raw.iqiq.io/cracada/tvb/main/json/lianying.json  
 https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json  
 https://raw.iqiq.io/cracada/tvb/main/json/xiaoya.json  
-https://raw.iqiq.io/cracada/tvb/main/json/fantaiying.json
-https://raw.iqiq.io/cracada/tvb/main/json/feimao.json
+https://raw.iqiq.io/cracada/tvb/main/json/fantaiying.json  
+https://raw.iqiq.io/cracada/tvb/main/json/feimao.json  
 
 
 网络线路
