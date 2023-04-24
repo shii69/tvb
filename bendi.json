@@ -17,6 +17,14 @@
             "name": "本地-小雅"
         }, 
           {
+            "url":"clan://localhost/tvb/fantaiying/fty.json",
+            "name": "本地-饭太硬"
+        }, 
+          {
+            "url":"clan://localhost/tvb/feimao/fm.json",
+            "name": "本地-肥猫"
+        }, 	    
+          {
             "url":"clan://localhost/tvb/yimu/ym.json",
             "name": "本地-一木"
         }
