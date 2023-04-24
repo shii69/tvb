@@ -12,6 +12,14 @@
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json",
             "name": "缝合-巧技"
         },
+          {
+            "url":"https://raw.iqiq.io/cracada/tvb/main/json/fantaiying.json",
+            "name": "本地-饭太硬"
+        }, 
+          {
+            "url":"https://raw.iqiq.io/cracada/tvb/main/json/feimao.json",
+            "name": "本地-肥猫"
+        }, 	    
         {
             "url":"https://raw.iqiq.io/cracada/tvb/main/json/yimu.json",
             "name": "缝合-一木"
