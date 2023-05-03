@@ -378,7 +378,7 @@
   ],
 "spider":"https://raw.iqiq.io/cracada/tvb/main/clan/duoduo/2212.jar;md5;80DA9A5A82CDCE90317FD19B7FAA1890",
 "lives":[{"name":"live","type":0,"url":"https://raw.iqiq.io/cracada/tvb/main/live/mytv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
-"wallpaper":"http://饭太硬.ga/深色壁纸/api.php",    
+"wallpaper": "http://maoyingshi.cc/api.php",    
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
