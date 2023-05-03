@@ -30,7 +30,7 @@ https://raw.iqiq.io/cracada/tvb/main/json/feimao.json
 多多： https://yydsys.top/duo  
 道长： https://pastebin.com/raw/5NHaxyGR  
 肥猫： http://我不是.肥猫.love:63/接口禁止贩卖  
-云星： http://itvbox.cc/tvbox/云星日记/1.m3u8
+云星： http://itvbox.cc/tvbox/云星日记/1.m3u8  
 蜂蜜 https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json  
 老刘备 https://raw.iqiq.io/liu673cn/box/main/m.json  
 霜辉月明py： https://raw.iqiq.io/lm317379829/PyramidStore/pyramid/py.json  
