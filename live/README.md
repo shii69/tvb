@@ -42,15 +42,16 @@ eg:
     }]
 
 }
+```
 
-compress above
+one line
+
 ```
 "lives":[{"name":"live","type":0,"url":"https://raw.iqiq.io/cracada/tvb/main/live/mytv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}],
 
 ```
 
 Another
-```
 
 ```
     "lives": [
