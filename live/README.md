@@ -30,26 +30,26 @@ http://101.34.67.237/txt/lives/tvlive.txt
 
 
 eg:
-```
-"lives":[{"name":"live","type":0,"url":"http://url/qiaoji.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
-```
  
 ```
 "lives":[{
       "name": "live",
-      "url": "http://url/tklive.txt",
+      "url": "[http://url/tklive.txt](https://raw.iqiq.io/cracada/tvb/main/live/mytv.txt)",
       "type": 0,
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+      "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png",
       "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
     }]
 
 }
 
+compress above
 ```
+"lives":[{"name":"live","type":0,"url":"https://raw.iqiq.io/cracada/tvb/main/live/mytv.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png","ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"}],
 
 ```
-"lives":[{"name":"综合","type":0,"url":"./list.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+
+Another
 ```
 
 ```
