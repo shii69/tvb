@@ -1,14 +1,12 @@
 多仓
 -----
+(for 影视仓)
 https://raw.iqiq.io/cracada/tvb/main/duo.json  
 
 单仓
 -----
+(for 蜂蜜)
 https://raw.iqiq.io/cracada/tvb/main/dan.json  
-
-本地仓
------
-https://raw.iqiq.io/cracada/tvb/main/bendi.json  
 
 搬运线路
 ---
@@ -40,6 +38,9 @@ https://raw.iqiq.io/cracada/tvb/main/json/feimao.json
 运输车： https://gitee.com/lekanbox/ysc/raw/master/ysc.json  
 
 
+本地仓
+-----
+https://raw.iqiq.io/cracada/tvb/main/bendi.json  
 
 
 直播
