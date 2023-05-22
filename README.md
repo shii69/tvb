@@ -11,12 +11,12 @@ https://raw.fastgit.org/cracada/tvb/main/tvb.json
 
 直播
 -----
-https://raw.fastgit.org/cracada/tvb/main/zb/zb.json
+https://raw.fastgit.org/cracada/tvb/main/zb/zb.json  
 https://raw.fastgit.org/cracada/tvb/main/zb/zb.txt
 
 搬运线路
 ---
-https://raw.fastgit.org/cracada/tvb/main/db//duoduo.json  
+https://raw.fastgit.org/cracada/tvb/main/db//duoduo.json   
 https://raw.fastgit.org/cracada/tvb/main/db//yimu.json  
 https://raw.fastgit.org/cracada/tvb/main/db//qiaoji.json  
 https://raw.fastgit.org/cracada/tvb/main/db//fantaiying.json  
