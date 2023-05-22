@@ -4,25 +4,23 @@
 
 
 
-多仓
------
-(for 影视仓)
-https://raw.iqiq.io/cracada/tvb/main/duo.json  
 
-单仓
+仓库
 -----
-(for 蜂蜜)
-https://raw.iqiq.io/cracada/tvb/main/dan.json  
+https://raw.fastgit.org/cracada/tvb/main/tvb.json
+
+直播
+-----
+https://raw.fastgit.org/cracada/tvb/main/zb/zb.json
+https://raw.fastgit.org/cracada/tvb/main/zb/zb.txt
 
 搬运线路
 ---
-https://raw.iqiq.io/cracada/tvb/main/json/duoduo.json  
-https://raw.iqiq.io/cracada/tvb/main/json/yimu.json  
-https://raw.iqiq.io/cracada/tvb/main/json/lianying.json  
-https://raw.iqiq.io/cracada/tvb/main/json/qiaoji.json  
-https://raw.iqiq.io/cracada/tvb/main/json/xiaoya.json  
-https://raw.iqiq.io/cracada/tvb/main/json/fantaiying.json  
-https://raw.iqiq.io/cracada/tvb/main/json/feimao.json  
+https://raw.fastgit.org/cracada/tvb/main/db//duoduo.json  
+https://raw.fastgit.org/cracada/tvb/main/db//yimu.json  
+https://raw.fastgit.org/cracada/tvb/main/db//qiaoji.json  
+https://raw.fastgit.org/cracada/tvb/main/db//fantaiying.json  
+https://raw.fastgit.org/cracada/tvb/main/db//feimao.json  
 
 
 网络线路
@@ -46,16 +44,9 @@ https://raw.iqiq.io/cracada/tvb/main/json/feimao.json
 
 本地仓
 -----
-https://raw.iqiq.io/cracada/tvb/main/bendi.json  
-
-
-直播
----
-https://raw.iqiq.io/cracada/tvb/main/tv.json  
-
-壁纸
----
-https://www.crsay.com/addons/tvbox/wp/  
+整个打包，通过tbox:9978上传为tvb.zip  
+接口地址：clan://localhost/tvb/tvb.json  
+直播地址如需单独设置则：clan://localhost/tvb/zb/zb.json  
 
 
 IPTV
