@@ -1,5 +1,5 @@
 {
-	"spider": "https://raw.fastgit.org/cracada/tvb/main/jar/qj-fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236",
+	"spider": "../jar/qj-fix230320.jar;md5;58dbcf7265f01cc353e5b27855600236",
 	"wallpaper": "http://maoyingshi.cc/api.php",
 	"lives":[{"name":"live","type":0,"url":"https://raw.fastgit.org/cracada/tvb/main/zb/zb.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 	"sites": [{
