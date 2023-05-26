@@ -8,6 +8,9 @@
 仓库
 -----
 https://raw.fastgit.org/cracada/tvb/main/tvb.json
+https://fastly.jsdelivr.net/gh/cracada/tvb/tvb.json  
+https://gcore.jsdelivr.net/gh/cracada/tvb/tvb.json  
+https://cdn.staticaly.com/gh/cracada/tvb/main/tvb.json  
 
 直播
 -----
